@@ -1,5 +1,8 @@
 # Haldiram Case Study  
 
+## Don’t miss this fantastic video to understand this incredible project clearly!
+[Watch the video here](https://www.linkedin.com/posts/activity-7373560533083488256-XlTX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEakH3QBSpO-5Wu2PVxGVNnFHK3FsrFPh9M)
+
 ## 📌 Introduction  
 This repository presents a **case study on Haldiram**, one of India’s leading packaged food and snack brands. Since real company datasets of FMCG giants like Haldiram are **not publicly available**, I adopted a **unique approach** by scraping **YouTube comments** from Haldiram-related videos. These comments were then analyzed to extract insights into consumer perception, brand value, and overall sentiment.  
 
@@ -48,14 +51,10 @@ The business problems identified were then mapped with **strategic solutions** s
 
 ## 🛠 Tech Stack / Tools Used  
 - **Python** – Data scraping & analysis  
-- **BeautifulSoup / Selenium** – For YouTube comment scraping  
+- **Youtube_comment_downloader** – For YouTube comment scraping  
 - **Pandas & NumPy** – Data cleaning and manipulation  
 - **Matplotlib / WordCloud** – Visualizations  
 - **Jupyter Notebook** – Analysis and documentation  
 
 ---
 
-## 🚀 How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/haldiram-case-study.git
